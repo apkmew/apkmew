@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkmew)](https://github.com/apkmew/github-readme-stats)
+[![apkmew's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkmew)](https://github.com/apkmew/github-readme-stats)
 <!--
 **apkmew/apkmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
