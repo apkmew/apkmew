@@ -2,8 +2,11 @@
 ## Welcome to my GitHub !
 ### Bachelor of Enigineering in Computer Engineering, Kasetsart University
 ![apkmew's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkmew&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apkmew&layout=compact&hide=Assembly,Verilog,Roff&theme=blue-green)
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apkmew&layout=compact&hide=Assembly,Verilog,Roff&theme=blue-green)  
+### Social Media
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003913217242)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apkmew?igshid=YmMyMTA2M2Y=)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://th.linkedin.com/in/apimook-tratree-325554188)
 <!--
 **apkmew/apkmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
