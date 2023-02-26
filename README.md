@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## Welcome to my GitHub !
-### Kasetsart University
-- Bachelor of Enigineering in Computer Engineering
-- ![apkmew's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkmew&show_icons=true&theme=blue-green)
+### Bachelor of Enigineering in Computer Engineering, Kasetsart University
+![apkmew's GitHub stats](https://github-readme-stats.vercel.app/api?username=apkmew&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apkmew&layout=compact&hide=Assembly,Verilog,Roff&theme=blue-green)
 <!--
 **apkmew/apkmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
